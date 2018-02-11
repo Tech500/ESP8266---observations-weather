@@ -1,7 +1,7 @@
 # ESP8266---observations-weather
 ESP8266  - Data Logger and Domain hosted dynamic website
 
-Features of "NTP_Oberservations_SPIFFS.ino".
+Features of "NTP_Web_Interface.ino".
 
   1. NTP protocol and time serverServer; used for 15 minute time interval, date-time stamping, and dayofweek (every 6th day, "LOG.TXT" file gets renamed to keep 
   file size manageable.   Every Saturday "LOG.TXT" gets renamed in the format "logxxyy" xx being the month and yy being the date; a new 
