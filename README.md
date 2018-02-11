@@ -1,5 +1,4 @@
 # ESP8266---observations-weather
-ESP8266  - Data Logger and Domain hosted dynamic website
 
 Features of "NTP_Web_Interface.ino".
 
