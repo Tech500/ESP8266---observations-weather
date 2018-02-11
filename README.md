@@ -3,9 +3,7 @@ ESP8266  - Data Logger and Domain hosted dynamic website
 
 Features of "NTP_Web_Interface.ino".
 
-  1. NTP protocol and time serverServer; used for 15 minute time interval, date-time stamping, and dayofweek (every 6th day, "LOG.TXT" file gets renamed to keep 
-  file size manageable.   Every Saturday "LOG.TXT" gets renamed in the format "logxxyy" xx being the month and yy being the date; a new 
-  "lLOG.TXT" is created after every file renaming. 
+  1. NTP protocol and time serverServer; used for 15 minute time interval, date-time stamping, and dayofweek (every 6th day, "LOG.TXT"     file gets renamed to keep   file size manageable.   Every Saturday "LOG.TXT" gets renamed in the format "logxxyy" xx being the month     and yy being the date; a new   "LOG.TXT" is created after every file renaming. 
 
   2. Dynamic web page of current observations for Last update time and date, humidity, dew point, temperature, heat index, barometric 
   ressure (both inches of Mercury and millibars.) 
