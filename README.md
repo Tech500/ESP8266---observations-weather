@@ -37,8 +37,9 @@ Features of "NTP_Web_Interface.ino".
  website. 
 ----------------------------------------------------- 
  Note this is a project in development; maybe offline or log files may be affected.
- Server is online 24/7; except during periods of testing.  http://tinyurl.com/Observations-weather --ESP8266 based.  Domain based 
- website:  http://tinyurl.com/indpls-weather
+ Server is online 24/7; except during periods of testing.  http://tinyurl.com/Observations-weather --ESP8266 based.  
+ 
+ Domain based website:  http://tinyurl.com/indpls-weather   "Observations" HTML page is updated every fifteen minutes.
 
  Server is a "RobotDyn WiFi D1 R2" with 32 MB Flash Memory.  Development Board, purchased from "RobotDyn.com" and Adafruit BME280 
  breakout board, purchased from "Adafruit.com" ; both are required for project, BME280 sensor is located indoors.   
